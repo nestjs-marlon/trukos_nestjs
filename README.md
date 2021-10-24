@@ -1,11 +1,11 @@
 # trukos_nestjs
 
-#create a project
+# Create a project
 ```
 nest new helloNest
 ```
 
-#run project
+# Run project
 ```
 nest start --watch
 ```
