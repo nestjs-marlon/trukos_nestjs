@@ -1,4 +1,4 @@
-# trukos_nestjs
+# Trucos NestJS
 
 # Create a project
 ```
